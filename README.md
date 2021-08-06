@@ -25,3 +25,14 @@ This is my personal portfolio website. I am designing to be responsive and acces
     3.	as a returning visitor I would like to be able to find social media links to see what current projects you have been working on.
 
 
+* Frequent user Aims
+
+    1. I would like to have a sign in page where you can create and log in.
+    
+    2. An emailing box to submit project requests with descriptions.
+    
+    3. A page that covers your current project you are working on.
+
+* Desighn
+
+    * Colour Scheme
