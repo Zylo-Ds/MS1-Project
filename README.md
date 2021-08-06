@@ -36,3 +36,18 @@ This is my personal portfolio website. I am designing to be responsive and acces
 * Desighn
 
     * Colour Scheme
+        
+        * im planning to use a off white color scheme and mot to many bold colour's to avoid over stimulating the user, this simple colour scheme is easy to mannage and change when required.
+    
+    * Typography
+
+        * to be decided 
+
+    
+    * Imagery 
+
+        * I am using google images for all imagery for the site, and only using creative commons license images. Which the original links can be found in the acknowledgment section with the heading images.
+
+* Wireframe
+
+    * [link to my wireframe pdf](wireframe.pdf)
