@@ -51,3 +51,15 @@ This is my personal portfolio website. I am designing to be responsive and acces
 * Wireframe
 
     * [link to my wireframe pdf](wireframe.pdf)
+
+# Features
+
+* responsive desighn accross all platform's.
+
+* interactive contact element's.
+
+# Technologies Used 
+
+* HTMLE5
+
+* CSS3
