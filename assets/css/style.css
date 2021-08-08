@@ -1,15 +1,21 @@
 /*color css*/
-
-.hero-img {
-    background-color: #eee;
+body {
+    margin: 0;
+    padding: 0;
 }
-<header class="hero-img">
-        <div class="container">
-            <div class="row">
-              <div class="col">
-                <h2>Devcreations</h2>
-              </div>
-              <div class="col">
-                
-              </div>
-    </header>
+
+/*nav bar styling*/
+.navbar {
+    margin-bottom: 2px;
+}
+
+
+
+
+
+
+/*hero img styling*/
+.hero-img {
+
+
+}
