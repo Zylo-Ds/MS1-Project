@@ -14,9 +14,6 @@ body {
 
 /*h1 Styling*/
 
-
-
-
 h1 {
     text-align: center;
 }
@@ -66,4 +63,18 @@ section {
 p {
     font-size: 25px;
     padding: 25px;
+}
+
+
+/*button styling*/
+
+.btn-position {
+   display: block;
+   text-align: center;
+}
+.btn-light {
+    background-color: lightgray;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 10px;
 }
