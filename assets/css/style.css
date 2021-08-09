@@ -1,7 +1,8 @@
-/*color css*/
+
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Playfair Display', serif;
 }
 
 /*nav bar styling*/
@@ -11,11 +12,34 @@ body {
 
 
 
+/*h1 Styling*/
 
+
+
+
+h1 {
+    text-align: center;
+}
 
 
 /*hero img styling*/
-.hero-img {
 
+.hero-img {
+    
+    background-image: url(../images/heroimg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+   
+}
+h1 {
+    padding-top: 49% ;
+    text-align: center;
+    font-weight: 900;
+    
+    color: rgb(0, 0, 0);
 
 }
+
+
+/*div*/
