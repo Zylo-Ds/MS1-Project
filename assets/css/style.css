@@ -40,12 +40,18 @@ h1 {
     background-image: url(../images/aboutme.jpg);
 }
 .gallery-hero{
-    background-image: url(../images/project.jpg);
+    background-image: url(../images/galleryhero.jpg);
+    
+}
+
+.gallery-hero h1 {
+
+    color: black;
 }
 /*h heading styling*/
 
 h1 {
-    padding-top: 40%;
+    
     text-align: center;
     font-weight: 900;
     
@@ -87,6 +93,20 @@ section {
    
    width: auto; 
    flex-wrap: wrap;
+}
+
+/*gallery image styling*/
+
+.gallery-box{
+    position: absolute;
+}
+
+.gallery-img{
+    padding: 20px;
+    
+    
+
+
 }
 
 /*paragraph styling*/
@@ -135,4 +155,8 @@ footer, h5 {
     text-align: center;
     font-size: 25px;
     color: darkgray;
+}
+
+@media(min-width:992px) {
+
 }
