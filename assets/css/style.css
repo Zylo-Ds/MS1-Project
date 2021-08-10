@@ -39,6 +39,9 @@ h1 {
 
     background-image: url(../images/aboutme.jpg);
 }
+.gallery-hero{
+    background-image: url(../images/project.jpg);
+}
 /*h heading styling*/
 
 h1 {
@@ -82,8 +85,8 @@ section {
 
 .row{
    
-   width: fit-content; 
-   
+   width: auto; 
+   flex-wrap: wrap;
 }
 
 /*paragraph styling*/
@@ -92,9 +95,6 @@ p {
     font-size: 25px;
     padding: 25px;
     text-align: center;
-}
-p li {
-    font-size: 35px;
 }
 
 
