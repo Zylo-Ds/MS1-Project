@@ -127,6 +127,6 @@ and for html the only error was with the boot strap button still trying to under
 
  * to code institute for learning material provided which aided in edditing code and using it on my own project 
 
- * google images 
+ * google images.
  
  * fontawsome for providing access to free images/logos for the site.
