@@ -5,10 +5,17 @@ body {
     font-family: 'Playfair Display', serif;
 }
 
+.div-box{
+    margin-bottom: 20px;
+    background-color: lightgray;
+}
+
 /*nav bar styling*/
 .navbar {
     margin-bottom: 2px;
 }
+
+
 
 
 
@@ -72,7 +79,6 @@ h2 {
 /*section styling*/
 section {
     height:fit-content;
-    background-color: lightgray;
     width: auto;
     
        
@@ -83,7 +89,7 @@ section {
     background-color:darkgrey;
     margin-bottom: 20px;
     height: fit-content;
-    float: left;
+  
     
    
   
@@ -97,12 +103,13 @@ section {
 
 /*gallery image styling*/
 
-.gallery-box{
-    position: absolute;
-}
+
 
 .gallery-img{
-    padding: 20px;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    margin-left: 7%;
+    width: 250px;
     
     
 
@@ -157,6 +164,11 @@ footer, h5 {
     color: darkgray;
 }
 
-@media(min-width:992px) {
+@media(min-width:768px) {
+
+    .gallery-img{
+       margin-top: 5%;
+        margin-left: 11%;
+        width: 250px;
 
 }
