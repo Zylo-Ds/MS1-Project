@@ -54,12 +54,32 @@ This is my personal portfolio website. I am designing to be responsive and acces
 
 # Features
 
-* responsive desighn accross all platform's.
+* responsive desighn accross desctop mobile and tablet(hoping to improve on this as i learn more).
 
-* interactive contact element's.
 
 # Technologies Used 
 
 * HTMLE5
 
 * CSS3
+
+* Bootstrap was used to aid in the responsive desighn and speed development up and aid i the desighn
+
+* balsamiq was used for the wire frame desighn.
+
+* google fonts has been used to style the text
+
+* google images was used to provide images for the site with creative commons licens to avoid any plagarisome and law breaking
+
+* git was used for the repository and deploment of the site and to push and comit to.
+
+* github was used to store the code 
+
+* git pod was used to write and create the code as well as preview the site.
+
+* googles light house dev tool was to check the usabilitay and accesibility of the site as well as seo raiting
+
+
+# Testing
+
+* WC3 Validatore was used to check for any errors in the code which the score was  
