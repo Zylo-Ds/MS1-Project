@@ -108,7 +108,9 @@ section {
 
 
 .gallery-img {
-    height:100px; margin: 9px;
+    height:100px; 
+    margin: 9px;
+
 }
 
 /*paragraph styling*/

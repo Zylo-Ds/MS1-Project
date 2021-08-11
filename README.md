@@ -1,3 +1,5 @@
+![](assets/images/amiresponsive.png)
+
 # My Personal Portfolio Website
 
 [View my finished project](#)
@@ -41,12 +43,12 @@ This is my personal portfolio website. I am designing to be responsive and acces
     
     * Typography
 
-        * to be decided 
+        * google fonts was used to style the text
 
     
     * Imagery 
 
-        * I am using google images for all imagery for the site, and only using creative commons license images. Which the original links can be found in the acknowledgment section with the heading images.
+        * I am using google images for all imagery for the site, and only using creative commons license images.
 
 * Wireframe
 
@@ -82,4 +84,49 @@ This is my personal portfolio website. I am designing to be responsive and acces
 
 # Testing
 
-* WC3 Validatore was used to check for any errors in the code which the score was  
+* WC3 Validatore was used to check for any errors in the code which the score was for css results link is http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fzylo-ds.github.io%2FMS1-Project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=
+and for html the only error was with the boot strap button still trying to understand how to solve this issue.
+
+# testing user experiance
+
+* i wanted people to know how to navigate and look around the site which i believe i have achieved
+
+* i didnt want visitors to the site to take a long period of time to find what there looking for.
+
+# what i would like to achieve in the future development of my site.
+
+* i would like too add a sign in page 
+
+* a automatick contact me email for for requsting colaborations/ work together.
+
+* i would also like to update this page with some projects iv worked on during my code institute course.
+
+# Deployment
+
+* the deployment of the site was done through git hub pages which has caused an issue with my place holder images not displaying and only displaying the alt tag. I was unable to find a soloution for this befor my milestone project submision this will be an issue i will try and fix when i know how to.
+ 
+ # known bugs or issues 
+
+ * the git deployment not displaying my gallery corect 
+
+ * i had some positioning bugs which was soved by altering code where some spaces had been missed or code hadnt been typed corectly
+
+ # Credits
+
+ ## Code
+ 
+ * i have used some code from a few of the projects on code institue learning program and have adapted it to suit the need i required 
+
+ * boot strap 4 was used to aid in responsive desighn
+
+ # Content 
+
+ * The immages are not my own the where aquired on google immages with the filter creative commons license.
+
+ # Acknowledgements
+
+ * to code institute for learning material provided which aided in edditing code and using it on my own project 
+
+ * google images 
+ 
+ * fontawsome for providing access to free images/logos for the site.
