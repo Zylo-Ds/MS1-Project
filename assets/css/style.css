@@ -1,11 +1,10 @@
-
 body {
     margin: 0;
     padding: 0;
     font-family: 'Playfair Display', serif;
 }
 
-.div-box{
+.div-box {
     margin-bottom: 20px;
     background-color: lightgray;
 }
@@ -29,39 +28,41 @@ h1 {
 /*hero img styling*/
 
 .hero-img {
-    
-    
+
+
     background-size: cover;
     background-position: center;
     height: 300px;
     margin-bottom: 10px;
-   
+
 }
 
 .home-page {
     background-image: url(../images/heroimg.jpg);
 }
 
-.about-page{
+.about-page {
 
     background-image: url(../images/aboutme.jpg);
 }
-.gallery-hero{
+
+.gallery-hero {
     background-image: url(../images/galleryhero.jpg);
-    
+
 }
 
 .gallery-hero h1 {
 
     color: black;
 }
+
 /*h heading styling*/
 
 h1 {
-    
+
     text-align: center;
     font-weight: 900;
-    
+
     color: rgb(0, 0, 0);
 
 }
@@ -78,42 +79,36 @@ h2 {
 
 /*section styling*/
 section {
-    height:fit-content;
-    width: auto;
-    
-       
-}
-/*container styling*/
-.container {
-    
-    background-color:darkgrey;
-    margin-bottom: 20px;
     height: fit-content;
-  
-    
-   
-  
+    width: auto;
+
+
 }
 
-.row{
-   
-   width: auto; 
-   flex-wrap: wrap;
+/*container styling*/
+.container {
+
+    background-color: darkgrey;
+    margin-bottom: 20px;
+    height: fit-content;
+
+
+
+
+}
+
+.row {
+
+    width: auto;
+    flex-wrap: wrap;
 }
 
 /*gallery image styling*/
 
 
 
-.gallery-img{
-    padding-left: 2%;
-    padding-bottom: 2%;
-    margin-left: 7%;
-    width: 250px;
-    
-    
-
-
+.gallery-img {
+    height:100px; margin: 9px;
 }
 
 /*paragraph styling*/
@@ -128,9 +123,10 @@ p {
 /*button styling*/
 
 .btn-position {
-   display: block;
-   text-align: center;
+    display: block;
+    text-align: center;
 }
+
 .btn-light {
     background-color: lightgray;
     width: 100%;
@@ -150,25 +146,17 @@ i {
 footer {
     background-color: #343a40;
     background-size: cover;
-    height:100px;
+    height: 100px;
     margin-bottom: 0px;
-   
-    
-    
+
+
+
 }
 
-footer, h5 {
-    
+footer,
+h5 {
+
     text-align: center;
     font-size: 25px;
     color: darkgray;
-}
-
-@media(min-width:768px) {
-
-    .gallery-img{
-       margin-top: 5%;
-        margin-left: 11%;
-        width: 250px;
-
 }
